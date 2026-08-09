@@ -1,6 +1,6 @@
 file-search
 ========
-A command-line file search utility for Windows.
+A file search utility for Windows.
 
 ![Screenshot](screenshot.png)
 
